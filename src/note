@@ -1,0 +1,15 @@
+api request
+-----------
+video add       -post-url,body
+get all videos  -get-url
+add category    -post-url,body
+delete          -delete,url
+add video to category -post-url,body
+
+baseUrl     -   http://localhost:4000
+commonrequest - api structure
+allapi      -   reuse api structure
+
+js api
+------
+fetch/axios
